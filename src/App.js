@@ -70,16 +70,6 @@ function App() {
             </div>
             <p>TrailMatch harnesses the power of ChatGPT API to create an exhilarating hiking experience tailored just for you. I was responsible for the entire user interface of this project, and my team was able to secure 9th place in Esri's 8th Annual Hackathon!</p>
           </div>
-
-          <div className="project">
-            <h3>Bruin Bites</h3>
-            <img src={images.BruinBitesImage} alt="BruinBites" style={{ width: '100%', display: 'block', margin: '0 auto', borderRadius: '10px' }}/>
-            <p>Bruin Bites is a website that allows UCLA students to more easily connect with their friends through food! Right off the bat, 
-              a new user can use the website to view what each restaurant/take-out option is serving, view their respective ratings, and even make them themselves.</p>
-          </div>
-        </div>
-
-        <div className="project-group">
           <div className="project">
             <h3>Sage Hill National Park Drone Imagery Analysis</h3>
             <div className="project-images-container" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-around' }}>
@@ -87,6 +77,16 @@ function App() {
               <img src={images.Altum} alt="DashboardImage" style={{ width: '60%', height: '95%', display: 'block', margin: '0 auto', borderRadius: '10px' }}/>
             </div>
             <p>My Sage Hill National Park Drone Imagery project utilizes a DJI Mavic 3 drone equipped with an Altum sensor to map the park's landscape. The left image displays processed drone imagery, highlighting the flight path (orange) and capture points (yellow). The right image shows the raw imagery. Pink points on both represent manual data collection sites, essential for verifying the orthomosaic's radiometric accuracy from the drone's multispectral imaging.</p>
+          </div>
+        </div>
+
+        <div className="project-group">
+
+          <div className="project">
+            <h3>Bruin Bites</h3>
+            <img src={images.BruinBitesImage} alt="BruinBites" style={{ width: '100%', display: 'block', margin: '0 auto', borderRadius: '10px' }}/>
+            <p>Bruin Bites is a website that allows UCLA students to more easily connect with their friends through food! Right off the bat, 
+              a new user can use the website to view what each restaurant/take-out option is serving, view their respective ratings, and even make them themselves.</p>
           </div>
           <div className="project">
             <h3>California Cities Weather Dashboard</h3>
