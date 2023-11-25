@@ -45,7 +45,7 @@ function App() {
       {/* <Navbar /> Place the Navbar component here */}
       <header className={`App-header section-fade  ${scrollClass}`}> {/* Add the "navbar" class */}
         <h1>Jordan Lin</h1>
-        <p>Esri IST Apps Developer, GIS Enthusiast</p>
+        <p style={{ marginTop: '30px' }}>Esri IST Apps Developer, GIS Enthusiast</p>
       </header>
 
       <section className={`about-section section-fade ${scrollClass}`}>
