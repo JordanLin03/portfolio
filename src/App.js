@@ -51,7 +51,9 @@ function App() {
       <section className={`about-section section-fade ${scrollClass}`}>
         <h2>About Me</h2>
         <p>
-          Hello! I'm an enthusiastic web developer dedicated to enhancing user experiences and creating visually captivating applications. I specialize in integrating Esri GIS products to vividly represent natural phenomena and modernizing existing applications to align with current market demands. With my versatile background in software development, UI/UX design, and GIS, I can contribute meaningfully and make a difference in various settings.
+        Welcome to my space on the web!  I'm a senior at UCLA, pursuing a major in Computer Science and Engineering (CSE) and a minor in Geospatial Information Systems 
+        and Technologies (GIS&T). Currently, I'm working at Esri as a developer in the IST department, where I'm harnessing my passion for programming 
+        to revamp current company software. My technological journey is fueled by a commitment to elevate user experiences and revitalize legacy systems.
         </p>
       </section>
 
